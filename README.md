@@ -93,7 +93,7 @@
 
 ### Задачи по дисциплине "Алгоритмы и структуры данных" (2 курс):
 <details>
- <summary><a href="https://github.com/Gramdel/algolabs/tree/main/A">Задача A</a> / <a href="https://github.com/Gramdel/What-is-here/blob/main/reports/web_lab4.pdf">Отчёт</a></summary>
+ <summary><a href="https://github.com/Gramdel/algolabs/tree/main/A">Задача A</a> / <a href="https://github.com/Gramdel/What-is-here/blob/main/reports/alg_block1.pdf">Отчёт</a></summary>
 
 | | |
 | --- | --- |
@@ -126,7 +126,7 @@
 | 6 <br/> 5 6 6 6 23 9 | 3 6 |
 </details>
 <details>
- <summary><a href="https://github.com/Gramdel/algolabs/tree/main/B">Задача B</a> / <a href="https://github.com/Gramdel/What-is-here/blob/main/reports/web_lab4.pdf">Отчёт</a></summary>
+ <summary><a href="https://github.com/Gramdel/algolabs/tree/main/B">Задача B</a> / <a href="https://github.com/Gramdel/What-is-here/blob/main/reports/alg_block1.pdf">Отчёт</a></summary>
 
 | | |
 | --- | --- |
@@ -154,7 +154,7 @@
 | ABab | Impossible |
 </details>
 <details>
- <summary><a href="https://github.com/Gramdel/algolabs/tree/main/C">Задача C</a> / <a href="https://github.com/Gramdel/What-is-here/blob/main/reports/web_lab4.pdf">Отчёт</a></summary>
+ <summary><a href="https://github.com/Gramdel/algolabs/tree/main/C">Задача C</a> / <a href="https://github.com/Gramdel/What-is-here/blob/main/reports/alg_block1.pdf">Отчёт</a></summary>
 
 | | |
 | --- | --- |
@@ -190,7 +190,7 @@
 | a=b<br/>b=123<br/>var=b<br/>b=-34<br/>{<br/>c=b<br/>b=1000000000<br/>d=b<br/>{<br/>a=b<br/>e=var<br/>}<br/>}<br/>b=b | 0<br/>123<br/>-34<br/>1000000000<br/>1000000000<br/>123<br/>-34 |
 </details>
 <details>
- <summary><a href="https://github.com/Gramdel/algolabs/tree/main/D">Задача D</a> / <a href="https://github.com/Gramdel/What-is-here/blob/main/reports/web_lab4.pdf">Отчёт</a></summary>
+ <summary><a href="https://github.com/Gramdel/algolabs/tree/main/D">Задача D</a> / <a href="https://github.com/Gramdel/What-is-here/blob/main/reports/alg_block1.pdf">Отчёт</a></summary>
 
 | | |
 | --- | --- |
@@ -231,7 +231,7 @@
 | 1 2 3 5 2 | 0 |
 </details>
 <details>
- <summary><a href="https://github.com/Gramdel/algolabs/tree/main/E">Задача E</a> / <a href="https://github.com/Gramdel/What-is-here/blob/main/reports/web_lab4.pdf">Отчёт</a></summary>
+ <summary><a href="https://github.com/Gramdel/algolabs/tree/main/E">Задача E</a> / <a href="https://github.com/Gramdel/What-is-here/blob/main/reports/alg_block2.pdf">Отчёт</a></summary>
 
 | | |
 | --- | --- |
@@ -259,7 +259,7 @@
 | 5 3<br/>1 2 3 100 1000 | 99 |
 </details>
 <details>
- <summary><a href="https://github.com/Gramdel/algolabs/tree/main/F">Задача F</a> / <a href="https://github.com/Gramdel/What-is-here/blob/main/reports/web_lab4.pdf">Отчёт</a></summary>
+ <summary><a href="https://github.com/Gramdel/algolabs/tree/main/F">Задача F</a> / <a href="https://github.com/Gramdel/What-is-here/blob/main/reports/alg_block2.pdf">Отчёт</a></summary>
 
 | | |
 | --- | --- |
@@ -289,7 +289,7 @@
 | 3 | 3 |
 </details>
 <details>
- <summary><a href="https://github.com/Gramdel/algolabs/tree/main/G">Задача G</a> / <a href="https://github.com/Gramdel/What-is-here/blob/main/reports/web_lab4.pdf">Отчёт</a></summary>
+ <summary><a href="https://github.com/Gramdel/algolabs/tree/main/G">Задача G</a> / <a href="https://github.com/Gramdel/What-is-here/blob/main/reports/alg_block2.pdf">Отчёт</a></summary>
 
 | | |
 | --- | --- |
@@ -314,7 +314,7 @@
 | lkshrules <br/> 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 | slkhruels |
 </details>
 <details>
- <summary><a href="https://github.com/Gramdel/algolabs/tree/main/H">Задача H</a> / <a href="https://github.com/Gramdel/What-is-here/blob/main/reports/web_lab4.pdf">Отчёт</a></summary>
+ <summary><a href="https://github.com/Gramdel/algolabs/tree/main/H">Задача H</a> / <a href="https://github.com/Gramdel/What-is-here/blob/main/reports/alg_block2.pdf">Отчёт</a></summary>
 
 | | |
 | --- | --- |
@@ -344,7 +344,7 @@
 | 5 2 <br/> 200 100 1000 400 100 | 1300 |
 </details>
 <details>
- <summary><a href="https://github.com/Gramdel/algolabs/tree/main/I">Задача I</a> / <a href="https://github.com/Gramdel/What-is-here/blob/main/reports/web_lab4.pdf">Отчёт</a></summary>
+ <summary><a href="https://github.com/Gramdel/algolabs/tree/main/I">Задача I</a> / <a href="https://github.com/Gramdel/What-is-here/blob/main/reports/alg_block3.pdf">Отчёт</a></summary>
 
 | | |
 | --- | --- |
@@ -367,7 +367,7 @@
 | 3 2 7<br/>1<br/>2<br/>3<br/>1<br/>3<br/>1<br/>2 | 4 |
 </details>
 <details>
- <summary><a href="https://github.com/Gramdel/algolabs/tree/main/J">Задача J</a> / <a href="https://github.com/Gramdel/What-is-here/blob/main/reports/web_lab4.pdf">Отчёт</a></summary>
+ <summary><a href="https://github.com/Gramdel/algolabs/tree/main/J">Задача J</a> / <a href="https://github.com/Gramdel/What-is-here/blob/main/reports/alg_block3.pdf">Отчёт</a></summary>
  
 | | |
 | --- | --- |
@@ -402,7 +402,7 @@
 | 2<br/>* 1<br/>+ 2 |  |
 </details>
 <details>
- <summary><a href="https://github.com/Gramdel/algolabs/tree/main/K">Задача K</a> / <a href="https://github.com/Gramdel/What-is-here/blob/main/reports/web_lab4.pdf">Отчёт</a></summary>
+ <summary><a href="https://github.com/Gramdel/algolabs/tree/main/K">Задача K</a> / <a href="https://github.com/Gramdel/What-is-here/blob/main/reports/alg_block3.pdf">Отчёт</a></summary>
  
 | | |
 | --- | --- |
@@ -430,7 +430,7 @@
 | 128 12<br/>1<br/>2<br/>4<br/>-2<br/>8<br/>-3<br/>16<br/>-5<br/>32<br/>-7<br/>64<br/>-1 | 1<br/>2<br/>4<br/>8<br/>16<br/>32<br/>64 |
 </details>
 <details>
- <summary><a href="https://github.com/Gramdel/algolabs/tree/main/L">Задача L</a> / <a href="https://github.com/Gramdel/What-is-here/blob/main/reports/web_lab4.pdf">Отчёт</a></summary>
+ <summary><a href="https://github.com/Gramdel/algolabs/tree/main/L">Задача L</a> / <a href="https://github.com/Gramdel/What-is-here/blob/main/reports/alg_block3.pdf">Отчёт</a></summary>
  
 | | |
 | --- | --- |
@@ -453,7 +453,7 @@
 | 7 3<br/>1 3 2 4 5 3 1 | 1 2 2 3 1 |
 </details>
 <details>
- <summary><a href="https://github.com/Gramdel/algolabs/tree/main/N">Задача N</a> / <a href="https://github.com/Gramdel/What-is-here/blob/main/reports/web_lab4.pdf">Отчёт</a></summary>
+ <summary><a href="https://github.com/Gramdel/algolabs/tree/main/N">Задача N</a> / <a href="https://github.com/Gramdel/What-is-here/blob/main/reports/alg_block4.pdf">Отчёт</a></summary>
  
 | | |
 | --- | --- |
@@ -478,7 +478,7 @@
 | 4<br/>2<br/>1<br/>2<br/>4 | 2 |
 </details>
 <details>
- <summary><a href="https://github.com/Gramdel/algolabs/tree/main/O">Задача O</a> / <a href="https://github.com/Gramdel/What-is-here/blob/main/reports/web_lab4.pdf">Отчёт</a></summary>
+ <summary><a href="https://github.com/Gramdel/algolabs/tree/main/O">Задача O</a> / <a href="https://github.com/Gramdel/What-is-here/blob/main/reports/alg_block4.pdf">Отчёт</a></summary>
 
 | | |
 | --- | --- |
@@ -503,7 +503,7 @@
 | 3 2<br/>1 2<br/>2 3 | YES |
 </details>
 <details>
- <summary><a href="https://github.com/Gramdel/algolabs/tree/main/P">Задача P</a> / <a href="https://github.com/Gramdel/What-is-here/blob/main/reports/web_lab4.pdf">Отчёт</a></summary>
+ <summary><a href="https://github.com/Gramdel/algolabs/tree/main/P">Задача P</a> / <a href="https://github.com/Gramdel/What-is-here/blob/main/reports/alg_block4.pdf">Отчёт</a></summary>
 
 | | |
 | --- | --- |
