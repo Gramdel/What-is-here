@@ -529,3 +529,25 @@
 | --- | --- |
 | 4<br/>0 10 12 16<br/>11 0 8 9<br/>10 13 0 22<br/>13 10 17 0 | 10 |
 </details>
+
+### Лабораторные работы по дисциплине "Методы и средства программной инженерии" (2 курс):
+(Лабораторные 1 и 2 не связаны с программированием напрямую, поэтому их я сюда включать не буду)
+<details>
+ <summary><a href="https://github.com/Gramdel/mispi_lab3">Лабораторная работа 3</a> / <a href="https://github.com/Gramdel/What-is-here/blob/main/reports/mispi_lab3.pdf">Отчёт</a></summary>
+ <p align="center">
+  <img src="https://github.com/Gramdel/What-is-here/blob/main/src/img/mispi_lab3_task.png"/>
+ </p>
+</details>
+ <details>
+ <summary><a href="https://github.com/Gramdel/mispi_lab4">Лабораторная работа 4</a> / <a href="https://github.com/Gramdel/What-is-here/blob/main/reports/mispi_lab4.pdf">Отчёт</a></summary>
+ <p align="center">
+  <img src="https://github.com/Gramdel/What-is-here/blob/main/src/img/mispi_lab4_task.png"/>
+ </p>
+  
+ 4. С помощью утилиты VisualVM и профилировщика IDE NetBeans, Eclipse или Idea локализовать и устранить проблемы с производительностью в [программе](https://se.ifmo.ru/documents/10180/189115/HttpUnit.tar.gz/7bf1032e-d16e-be85-c71b-dbe73c0178ba?t=1651168887037&download=true). По результатам локализации и устранения проблемы необходимо составить отчёт, в котором должна содержаться следующая информация:
+  - Описание выявленной проблемы.
+  - Описание путей устранения выявленной проблемы.
+  - Подробное (со скриншотами) описание алгоритма действий, который позволил выявить и локализовать проблему.
+
+Студент должен обеспечить возможность воспроизведения процесса поиска и локализации проблемы по требованию преподавателя.
+</details>
